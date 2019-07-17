@@ -1,2 +1,4 @@
+# Don't track content of these files, thus they won't be committed to Github
+
 node_modules
 .DS_Store
